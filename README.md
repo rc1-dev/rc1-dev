@@ -1,16 +1,14 @@
-## Hi there 👋
+I work on infrastructure products (storage, cloud platforms, Kubernetes, data movement and, more recently, AI data infrastructure) and on strategic technology partnerships. I stay close to customers, partners and engineering, from requirements through launch and field adoption.
 
-<!--
-**rc1-dev/rc1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Velorix** (stealth): product requirements for a data-acceleration layer that makes S3, GCS and Azure Blob data GPU-ready without application rewrites or data migration.
+- **NetApp**, Sr. Director, Cloud Product Management and Strategic Partnerships: AI storage strategy for Azure NetApp Files, an enterprise RAG reference architecture co-authored with Microsoft and NVIDIA, S3 access to enterprise file data, NFS/RDMA and GPUDirect Storage data paths, and Kubernetes data management for Astra.
+- **VMware**, Senior Director, Products, Hybrid Cloud Services: brought the acquired CloudVelox technology into VMware HCX and shipped HCX OS Assisted Migration.
+- **Earlier:** CloudVelox (hybrid-cloud migration, acquired by VMware), Mayfield Fund, Cisco, and NeoPath Networks (network file virtualization, acquired by Cisco).
 
-Here are some ideas to get you started:
+23 U.S. patents in storage, cloud and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### On GitHub
+
+- [**board-almanac**](https://github.com/rc1-dev/board-almanac): Almanac, a Skill for the UGREEN AI NAS that turns an HOA, condo or club association's records into a versioned, cited rulebook. Built for the UGREEN Hackathon 2026.
+
+[LinkedIn](https://www.linkedin.com/in/chawlarajeev)
